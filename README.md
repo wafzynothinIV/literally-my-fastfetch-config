@@ -3,7 +3,7 @@ yes it just my fastfetch config..
 
 # Reminder before to use
 - backup your old config before use it (really you will need that.)
-- if you want use your custom ascii art you really take your time to configure it
+- if you want use your custom ascii art you really take your time to configure it (to make it fit.)
 - also i have .txt files (not the dummy one) in that folder :)
 
 # How to use?
