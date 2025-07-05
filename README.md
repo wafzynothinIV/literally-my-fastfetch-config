@@ -2,7 +2,9 @@
 yes it just my fastfetch config..
 
 # Reminder before to use
-backup your old config before use it (really you will need that.)
+- backup your old config before use it (really you will need that.)
+- if you want use your custom ascii art you really take your time to configure it
+- also i have that .txt files in that folder :)
 
 # How to use?
 clone ts (or just download it one by one only if you want) and put in your "fastfetch" folder on your ".config" folder 🥀
