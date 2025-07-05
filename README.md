@@ -3,7 +3,7 @@
 yes it just my fastfetch config..
 
 # How to use?
-clone ts (or just download it one by one only if you want) and put in your ".config" folder 🥀
+clone ts (or just download it one by one only if you want) and put in your "fastfetch" folder on your ".config" folder 🥀
 
 # Preview
 ![image](https://github.com/user-attachments/assets/ac72247b-33cc-4639-8149-205d8a962a4c)
