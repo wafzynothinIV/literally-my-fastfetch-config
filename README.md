@@ -1,6 +1,8 @@
-# literally-my-fastfetch-config
-
+# About This Repository
 yes it just my fastfetch config..
+
+# Reminder before to use
+backup your old config before use it (really you will need that.)
 
 # How to use?
 clone ts (or just download it one by one only if you want) and put in your "fastfetch" folder on your ".config" folder 🥀
